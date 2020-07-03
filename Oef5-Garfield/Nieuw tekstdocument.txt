@@ -1,0 +1,5 @@
+als rij+kolom-startpos meer is dan tijd->onmogelijk(tijd is op?)
+als alle vissen op zijn
+dichtsbijzijnde vis is te ver
+
+eerst:checken of alle vissen kunnen gegeten worden

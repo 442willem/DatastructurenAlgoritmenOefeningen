@@ -1,0 +1,42 @@
+13
+1
+a b evenwicht 			Te weinig gegevens.  			-> maar 1 weging
+1		
+y z omlaag			Te weinig gegevens.			-> maar 1 weging	
+2
+a b omhoog
+c d omhoog			Inconsistente gegevens.			-> minstens 2 valse stukken
+3
+a b omhoog
+b a omlaag
+b c evenwicht			Het valse geldstuk a is zwaarder.	-> 1 mogelijk vals stuk
+2
+a b omhoog
+b c omlaag			Het valse geldstuk b is lichter.	-> 1 stuk lichter of zwaarder dan de rest (geen evenwicht)
+2
+a b omhoog
+b c evenwicht			Het valse geldstuk a is zwaarder.	-> 1 mogelijk vals stuk
+2
+a b omhoog
+a b omlaag			Inconsistente gegevens.			-> zelfde weging en ander resultaat
+2
+a b omhoog
+a b evenwicht			Inconsistente gegevens.			-> zelfde weging en ander resultaat
+4
+abcd efgh evenwicht
+abci efjk omhoog
+abij efgl evenwicht
+mnopqrs tuvwxyz evenwicht	Het valse geldstuk k is lichter.	-> 1 mogelijk stuk
+3
+abcd efgh evenwicht
+abci efjk omhoog
+abij efgh evenwicht		Het valse geldstuk k is lichter.	-> 1 mogelijk stuk
+2
+a b omhoog	
+a c omhoog			Het valse geldstuk a is zwaarder.	-> 1 stuk lichter of zwaarder dan de rest (geen evenwicht)
+2
+abc efg evenwicht
+a e omhoog			Inconsistente gegevens.			-> stuk zowel echt als vals
+2
+ab st omhoog
+ef ab omlaag			Te weinig gegevens.			-> 2 mogelijke valse stukken

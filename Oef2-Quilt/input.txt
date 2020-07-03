@@ -1,0 +1,62 @@
+2
+4
++|
+/-
+|-
++/
+--
+/+
++|
+|-
+20
+2
+draai
+3
+draai
+draai
+naai
+teken
+draai
+teken
+1
+4
+draai
+draai
+draai
+naai
+teken
+draai
+naai
+teken
+stop
+2
+++
+--
+||
+//
+9
+2
+draai
+teken
+1
+naai
+teken
+draai
+teken
+stop
+
+
+
+1234	51
+5678	62
+	73
+	84
+
+nieuw kolomnr = oud aantal rijen - oud rijnr
+nieuw rijnr = oud kolomnr
+
++	+
+-	|
+/	\
+\	/
+|	-

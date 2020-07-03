@@ -1,0 +1,42 @@
+13
+1
+a b evenwicht
+1
+y z omlaag
+2
+a b omhoog
+c d omhoog
+3
+a b omhoog
+b a omlaag
+b c evenwicht
+2
+a b omhoog
+b c omlaag
+2
+a b omhoog
+b c evenwicht
+2
+a b omhoog
+a b omlaag
+2
+a b omhoog
+a b evenwicht
+4
+abcd efgh evenwicht
+abci efjk omhoog
+abij efgl evenwicht
+mnopqrs tuvwxyz evenwicht
+3
+abcd efgh evenwicht
+abci efjk omhoog
+abij efgh evenwicht
+2
+a b omhoog
+a c omhoog
+2
+abc efg evenwicht
+a e omhoog
+2
+ab st omhoog
+ef ab omlaag

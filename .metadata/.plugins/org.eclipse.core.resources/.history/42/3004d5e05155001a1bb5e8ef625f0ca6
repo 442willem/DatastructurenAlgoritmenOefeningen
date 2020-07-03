@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		//inlezen van het aantal gevallen
+		int aantalGevallen=sc.nextInt();
+		for(int gevalNummer=0;gevalNummer<aantalGevallen;gevalNummer++) {
+			int min=1001,max=0;
+			int aantalGetallen=sc.nextInt();
+			for(int i=0;i<aantalGetallen;i++) {
+				int getal =sc.nextInt();
+				if (getal<min)min=getal;
+				if (getal>max)max=getal;
+			}		
+			System.out.println((gevalNummer+1) + " " + min + " " + max);
+		}
+		sc.close();
+	}
+}
